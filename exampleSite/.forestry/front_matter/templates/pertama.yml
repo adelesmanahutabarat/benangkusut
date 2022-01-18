@@ -1,0 +1,21 @@
+---
+label: Pertama
+hide_body: false
+fields:
+- type: text
+  name: Ini_juga_judul
+  label: Ini Judul
+  description: Ini adalah deskripsi judul
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: ini_juga_description
+  label: ini description
+  description: ini juga deskripsi lagi
+- type: text
+  name: type
+  label: type
+  description: aku gak tau ini type apa
+pages:
+- exampleSite/content/blog/blog-pertama.md
