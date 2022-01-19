@@ -86,8 +86,8 @@ author = "Themefisher"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
+mobile = "082272518485"
+email = "adelesmanahutabarat@gmail.com"
 location = "Dhaka, Bangladedsh"
 # copyright
 copyright = "| copyright &copy; 2022 [BenangKusut] All Rights Reserved |"
@@ -115,23 +115,26 @@ expire_days = 2
 
 
 ############################# social site ########################
+title = "facebook"
+icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+link = "https://www.facebook.com/adexboys/"
 
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "www.facebook.com/adexboys"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "facebook.com/adexboys"
 
 [[params.social]]
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "facebook.com/adexboys"
 
 [[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "facebook.com/adexboys"
