@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/liva/"
+baseURL = "benangkusut.com"
 languageCode = "en-us"
 title = "Benang Kusut | Tutorial"
 theme = "liva-hugo"
@@ -90,7 +90,7 @@ mobile = "0124857985320"
 email = "demo@email.com"
 location = "Dhaka, Bangladedsh"
 # copyright
-copyright = "| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved |"
+copyright = "| copyright &copy; 2022 [BenangKusut] All Rights Reserved |"
 
   # Preloader
   [params.preloader]
