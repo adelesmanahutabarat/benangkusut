@@ -123,19 +123,19 @@ link = "https://www.facebook.com/adexboys/"
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "www.facebook.com/adexboys"
+link = "https://www.facebook.com/adexboys/"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "facebook.com/adexboys"
+link = "https://www.instagram.com/ade_huta_barat/"
 
 [[params.social]]
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "facebook.com/adexboys"
+link = "https://github.com/adelesmanahutabarat"
 
 [[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "facebook.com/adexboys"
+link = "linkedin.com/in/ade-lesmana-hutabarat"
