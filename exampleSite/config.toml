@@ -118,7 +118,7 @@ expire_days = 2
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/adexboys/"
 
 [[params.social]]
 title = "twitter"
